@@ -1,0 +1,14 @@
+key,Pnet:com.imo.android.imoimalpha
+alias,PNET
+unit,(KB)
+begin date,2019-07-01
+end date,2019-07-01
+count,1
+
+,transmitted,received
+min,0.0,0.0
+max,0.0,0.0
+avg,0.0,0.0
+
+12:31:05.609,0,0
+
