@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # from appium import webdriver
 from utils.myconf import myconf
-import os,time
+import os, time
 from appium import webdriver
 
 PATH = os.path.abspath(os.path.dirname(os.path.dirname(__file__)))
@@ -25,7 +25,6 @@ def getDriver(desired_caps):
 def get_data():
     now = time.localtime(time.time())
     return time.strftime('%Y%m%d%H%M%S', now)
-
 
 if __name__ == "__main__":
     getDriver('88LX01KWG')

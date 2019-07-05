@@ -24,8 +24,6 @@ def getDeviceID():
     return device_id
 
 
-
-
 def open_gt(pkgName, deviceID):
     log.info("设备开启GT数据采集")
     try:
@@ -59,6 +57,7 @@ def exit_gt(pkgName, deviceID, fileName='test'):
     except Exception as ex:
         log.error(ex)
 
+
 def copyfile(sd_path, pc_path,deviceID):
     # hh: mm:ss.000  excel获取毫秒时间，设置格式
     print(deviceID)
@@ -68,17 +67,30 @@ def copyfile(sd_path, pc_path,deviceID):
     log.info("拷贝数据成功！")
 
 
-
 def clickID(driver, element_id,msg,skip=False):
     if isElement(driver,"id", element_id, msg, skip):
         driver.find_element_by_id(element_id).click()
-        time.sleep(5)
         log.info('点击元素'+'----'+msg)
         return True
     else:
         log.error('点击元素失败，没有该元素' + '----' + msg)
         return False
 
+def clickXpath(driver, msg, element_xpath, skip=False):
+    if isElement(driver, "xpath", element_xpath, msg, skip):
+        driver.find_element_by_xpath(element_xpath).click()
+        log.info('点击元素' + '----' + msg)
+        return True
+    else:
+        log.error('点击元素失败，没有该元素' + '----' + msg)
+        return False
+
+def getElementText(driver, type, msg, exlement):
+    if type == 'xpath':
+        element = driver.find_element_by_xpath(exlement)
+    text = element.get_attribute("text")
+    log.info(msg+'------->'+text)
+    return text
 
 def isElement(driver, identifyBy, c, msg, skip = False):
     '''
@@ -92,7 +104,7 @@ def isElement(driver, identifyBy, c, msg, skip = False):
         i = 2
     while flag == False and i <= 2 :
         try:
-            time.sleep(5)
+            time.sleep(10)
             if identifyBy == "id":
                 driver.find_element_by_id(c)
             elif identifyBy == "xpath":

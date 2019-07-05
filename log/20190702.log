@@ -1826,3 +1826,1727 @@
 
 [2019/07/02 14:08:33] - ERROR - 点击元素失败，没有该元素----取消弹窗
 [2019/07/02 14:08:43] - INFO - 点击元素----进入信息流
+[2019/07/02 14:08:53] - INFO - 点击元素----返回首页
+[2019/07/02 14:08:53] - INFO - 进入信息流13
+[2019/07/02 14:08:58] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:08:58] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:09:09] - INFO - 点击元素----进入信息流
+[2019/07/02 14:09:19] - INFO - 点击元素----返回首页
+[2019/07/02 14:09:19] - INFO - 进入信息流14
+[2019/07/02 14:09:24] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:09:24] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:09:35] - INFO - 点击元素----进入信息流
+[2019/07/02 14:09:45] - INFO - 点击元素----返回首页
+[2019/07/02 14:09:45] - INFO - 进入信息流15
+[2019/07/02 14:09:50] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:09:50] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:10:00] - INFO - 点击元素----进入信息流
+[2019/07/02 14:10:11] - INFO - 点击元素----返回首页
+[2019/07/02 14:10:11] - INFO - 进入信息流16
+[2019/07/02 14:10:16] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:10:16] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:13:42] - INFO - 点击元素----取消弹窗
+[2019/07/02 14:13:52] - INFO - 点击元素----进入信息流
+[2019/07/02 14:14:02] - INFO - 点击元素----返回首页
+[2019/07/02 14:14:02] - INFO - testIntoFeed0
+[2019/07/02 14:14:12] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:14:12] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:14:23] - INFO - 点击元素----进入信息流
+[2019/07/02 14:14:33] - INFO - 点击元素----返回首页
+[2019/07/02 14:14:33] - INFO - testIntoFeed1
+[2019/07/02 14:14:43] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:14:43] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:14:54] - INFO - 点击元素----进入信息流
+[2019/07/02 14:15:04] - INFO - 点击元素----返回首页
+[2019/07/02 14:15:04] - INFO - testIntoFeed2
+[2019/07/02 14:15:14] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:15:14] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:15:24] - INFO - 点击元素----进入信息流
+[2019/07/02 14:15:35] - INFO - 点击元素----返回首页
+[2019/07/02 14:15:35] - INFO - testIntoFeed3
+[2019/07/02 14:15:45] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:15:45] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:15:55] - INFO - 点击元素----进入信息流
+[2019/07/02 14:16:05] - INFO - 点击元素----返回首页
+[2019/07/02 14:16:05] - INFO - testIntoFeed4
+[2019/07/02 14:16:15] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:16:15] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:16:26] - INFO - 点击元素----进入信息流
+[2019/07/02 14:16:38] - INFO - 点击元素----返回首页
+[2019/07/02 14:16:38] - INFO - testIntoFeed5
+[2019/07/02 14:16:48] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:16:48] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:16:58] - INFO - 点击元素----进入信息流
+[2019/07/02 14:17:08] - INFO - 点击元素----返回首页
+[2019/07/02 14:17:08] - INFO - testIntoFeed6
+[2019/07/02 14:17:18] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:17:18] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:17:29] - INFO - 点击元素----进入信息流
+[2019/07/02 14:17:39] - INFO - 点击元素----返回首页
+[2019/07/02 14:17:39] - INFO - testIntoFeed7
+[2019/07/02 14:17:49] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:17:49] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:18:00] - INFO - 点击元素----进入信息流
+[2019/07/02 14:18:11] - INFO - 点击元素----返回首页
+[2019/07/02 14:18:11] - INFO - testIntoFeed8
+[2019/07/02 14:18:21] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:18:21] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:18:32] - INFO - 点击元素----进入信息流
+[2019/07/02 14:18:43] - INFO - 点击元素----返回首页
+[2019/07/02 14:18:43] - INFO - testIntoFeed9
+[2019/07/02 14:18:53] - INFO - 点击元素----取消弹窗
+[2019/07/02 14:19:03] - INFO - 点击元素----进入信息流
+[2019/07/02 14:19:14] - INFO - 点击元素----返回首页
+[2019/07/02 14:19:14] - INFO - testIntoFeed10
+[2019/07/02 14:19:24] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:19:24] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:19:34] - INFO - 点击元素----进入信息流
+[2019/07/02 14:19:44] - INFO - 点击元素----返回首页
+[2019/07/02 14:19:44] - INFO - testIntoFeed11
+[2019/07/02 14:19:54] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:19:54] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:20:05] - INFO - 点击元素----进入信息流
+[2019/07/02 14:20:15] - INFO - 点击元素----返回首页
+[2019/07/02 14:20:15] - INFO - testIntoFeed12
+[2019/07/02 14:20:25] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:20:25] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:20:36] - INFO - 点击元素----进入信息流
+[2019/07/02 14:20:46] - INFO - 点击元素----返回首页
+[2019/07/02 14:20:46] - INFO - testIntoFeed13
+[2019/07/02 14:20:56] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:20:56] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:21:06] - INFO - 点击元素----进入信息流
+[2019/07/02 14:21:18] - INFO - 点击元素----返回首页
+[2019/07/02 14:21:18] - INFO - testIntoFeed14
+[2019/07/02 14:21:28] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:21:28] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:21:39] - INFO - 点击元素----进入信息流
+[2019/07/02 14:21:51] - INFO - 点击元素----返回首页
+[2019/07/02 14:21:51] - INFO - testIntoFeed15
+[2019/07/02 14:22:01] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:22:01] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:22:11] - INFO - 点击元素----进入信息流
+[2019/07/02 14:22:21] - INFO - 点击元素----返回首页
+[2019/07/02 14:22:21] - INFO - testIntoFeed16
+[2019/07/02 14:22:32] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:22:32] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:22:42] - INFO - 点击元素----进入信息流
+[2019/07/02 14:22:54] - INFO - 点击元素----返回首页
+[2019/07/02 14:22:54] - INFO - testIntoFeed17
+[2019/07/02 14:23:04] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:23:04] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:23:14] - INFO - 点击元素----进入信息流
+[2019/07/02 14:23:25] - INFO - 点击元素----返回首页
+[2019/07/02 14:23:25] - INFO - testIntoFeed18
+[2019/07/02 14:23:35] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:23:35] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:23:45] - INFO - 点击元素----进入信息流
+[2019/07/02 14:23:55] - INFO - 点击元素----返回首页
+[2019/07/02 14:23:55] - INFO - testIntoFeed19
+[2019/07/02 14:24:05] - INFO - 点击元素----取消弹窗
+[2019/07/02 14:24:16] - INFO - 点击元素----进入信息流
+[2019/07/02 14:24:26] - INFO - 点击元素----返回首页
+[2019/07/02 14:24:26] - INFO - testIntoFeed20
+[2019/07/02 14:24:36] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:24:36] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:24:46] - INFO - 点击元素----进入信息流
+[2019/07/02 14:24:57] - INFO - 点击元素----返回首页
+[2019/07/02 14:24:57] - INFO - testIntoFeed21
+[2019/07/02 14:25:07] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:25:07] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:25:17] - INFO - 点击元素----进入信息流
+[2019/07/02 14:25:29] - INFO - 点击元素----返回首页
+[2019/07/02 14:25:29] - INFO - testIntoFeed22
+[2019/07/02 14:25:39] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:25:39] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:25:50] - INFO - 点击元素----进入信息流
+[2019/07/02 14:26:00] - INFO - 点击元素----返回首页
+[2019/07/02 14:26:00] - INFO - testIntoFeed23
+[2019/07/02 14:26:10] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:26:10] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:26:21] - INFO - 点击元素----进入信息流
+[2019/07/02 14:26:31] - INFO - 点击元素----返回首页
+[2019/07/02 14:26:31] - INFO - testIntoFeed24
+[2019/07/02 14:26:41] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:26:41] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:26:52] - INFO - 点击元素----进入信息流
+[2019/07/02 14:27:02] - INFO - 点击元素----返回首页
+[2019/07/02 14:27:02] - INFO - testIntoFeed25
+[2019/07/02 14:27:12] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:27:12] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:27:22] - INFO - 点击元素----进入信息流
+[2019/07/02 14:27:34] - INFO - 点击元素----返回首页
+[2019/07/02 14:27:34] - INFO - testIntoFeed26
+[2019/07/02 14:27:44] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:27:44] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:27:55] - INFO - 点击元素----进入信息流
+[2019/07/02 14:28:05] - INFO - 点击元素----返回首页
+[2019/07/02 14:28:05] - INFO - testIntoFeed27
+[2019/07/02 14:28:15] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:28:15] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:28:25] - INFO - 点击元素----进入信息流
+[2019/07/02 14:28:37] - INFO - 点击元素----返回首页
+[2019/07/02 14:28:37] - INFO - testIntoFeed28
+[2019/07/02 14:28:48] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:28:48] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:28:58] - INFO - 点击元素----进入信息流
+[2019/07/02 14:29:08] - INFO - 点击元素----返回首页
+[2019/07/02 14:29:08] - INFO - testIntoFeed29
+[2019/07/02 14:29:18] - INFO - 点击元素----取消弹窗
+[2019/07/02 14:29:29] - INFO - 点击元素----进入信息流
+[2019/07/02 14:29:39] - INFO - 点击元素----返回首页
+[2019/07/02 14:29:39] - INFO - testIntoFeed30
+[2019/07/02 14:29:49] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:29:49] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:29:59] - INFO - 点击元素----进入信息流
+[2019/07/02 14:30:11] - INFO - 点击元素----返回首页
+[2019/07/02 14:30:11] - INFO - testIntoFeed31
+[2019/07/02 14:30:21] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:30:21] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:30:31] - ERROR - 进入信息流Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:30:41] - ERROR - 进入信息流Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:30:52] - ERROR - 进入信息流Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:30:52] - ERROR - 点击元素失败，没有该元素----进入信息流
+[2019/07/02 14:31:25] - INFO - 点击元素----取消弹窗
+[2019/07/02 14:31:35] - INFO - 点击元素----进入信息流
+[2019/07/02 14:31:45] - INFO - 点击元素----返回首页
+[2019/07/02 14:31:45] - INFO - testIntoFeed0
+[2019/07/02 14:31:56] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:31:56] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:32:06] - INFO - 点击元素----进入信息流
+[2019/07/02 14:32:18] - INFO - 点击元素----返回首页
+[2019/07/02 14:32:18] - INFO - testIntoFeed1
+[2019/07/02 14:32:28] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:32:28] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:32:38] - INFO - 点击元素----进入信息流
+[2019/07/02 14:32:48] - INFO - 点击元素----返回首页
+[2019/07/02 14:32:48] - INFO - testIntoFeed2
+[2019/07/02 14:32:59] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:32:59] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:33:09] - INFO - 点击元素----进入信息流
+[2019/07/02 14:33:21] - INFO - 点击元素----返回首页
+[2019/07/02 14:33:21] - INFO - testIntoFeed3
+[2019/07/02 14:33:31] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:33:31] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:33:41] - INFO - 点击元素----进入信息流
+[2019/07/02 14:33:51] - INFO - 点击元素----返回首页
+[2019/07/02 14:33:51] - INFO - testIntoFeed4
+[2019/07/02 14:34:02] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:34:02] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:34:12] - INFO - 点击元素----进入信息流
+[2019/07/02 14:34:22] - INFO - 点击元素----返回首页
+[2019/07/02 14:34:22] - INFO - testIntoFeed5
+[2019/07/02 14:34:32] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:34:32] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:34:43] - INFO - 点击元素----进入信息流
+[2019/07/02 14:34:53] - INFO - 点击元素----返回首页
+[2019/07/02 14:34:53] - INFO - testIntoFeed6
+[2019/07/02 14:35:03] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:35:03] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:35:13] - INFO - 点击元素----进入信息流
+[2019/07/02 14:35:25] - INFO - 点击元素----返回首页
+[2019/07/02 14:35:25] - INFO - testIntoFeed7
+[2019/07/02 14:35:36] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:35:36] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:35:46] - INFO - 点击元素----进入信息流
+[2019/07/02 14:35:58] - INFO - 点击元素----返回首页
+[2019/07/02 14:35:58] - INFO - testIntoFeed8
+[2019/07/02 14:36:08] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:36:08] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:36:18] - INFO - 点击元素----进入信息流
+[2019/07/02 14:36:30] - INFO - 点击元素----返回首页
+[2019/07/02 14:36:30] - INFO - testIntoFeed9
+[2019/07/02 14:36:40] - INFO - 点击元素----取消弹窗
+[2019/07/02 14:36:50] - INFO - 点击元素----进入信息流
+[2019/07/02 14:37:00] - INFO - 点击元素----返回首页
+[2019/07/02 14:37:00] - INFO - testIntoFeed10
+[2019/07/02 14:37:11] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:37:11] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:37:21] - INFO - 点击元素----进入信息流
+[2019/07/02 14:37:31] - INFO - 点击元素----返回首页
+[2019/07/02 14:37:31] - INFO - testIntoFeed11
+[2019/07/02 14:37:41] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:37:41] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:37:52] - INFO - 点击元素----进入信息流
+[2019/07/02 14:38:02] - INFO - 点击元素----返回首页
+[2019/07/02 14:38:02] - INFO - testIntoFeed12
+[2019/07/02 14:38:12] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:38:12] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:38:22] - INFO - 点击元素----进入信息流
+[2019/07/02 14:38:32] - INFO - 点击元素----返回首页
+[2019/07/02 14:38:32] - INFO - testIntoFeed13
+[2019/07/02 14:38:43] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:38:43] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:38:53] - INFO - 点击元素----进入信息流
+[2019/07/02 14:39:03] - INFO - 点击元素----返回首页
+[2019/07/02 14:39:03] - INFO - testIntoFeed14
+[2019/07/02 14:39:13] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:39:13] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:39:23] - INFO - 点击元素----进入信息流
+[2019/07/02 14:39:35] - INFO - 点击元素----返回首页
+[2019/07/02 14:39:35] - INFO - testIntoFeed15
+[2019/07/02 14:39:45] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:39:45] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:39:56] - INFO - 点击元素----进入信息流
+[2019/07/02 14:40:06] - INFO - 点击元素----返回首页
+[2019/07/02 14:40:06] - INFO - testIntoFeed16
+[2019/07/02 14:40:16] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:40:16] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:40:26] - INFO - 点击元素----进入信息流
+[2019/07/02 14:40:38] - INFO - 点击元素----返回首页
+[2019/07/02 14:40:38] - INFO - testIntoFeed17
+[2019/07/02 14:40:48] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:40:48] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:40:59] - INFO - 点击元素----进入信息流
+[2019/07/02 14:41:09] - INFO - 点击元素----返回首页
+[2019/07/02 14:41:09] - INFO - testIntoFeed18
+[2019/07/02 14:41:19] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:41:19] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:41:29] - INFO - 点击元素----进入信息流
+[2019/07/02 14:41:40] - INFO - 点击元素----返回首页
+[2019/07/02 14:41:40] - INFO - testIntoFeed19
+[2019/07/02 14:41:50] - INFO - 点击元素----取消弹窗
+[2019/07/02 14:42:00] - INFO - 点击元素----进入信息流
+[2019/07/02 14:42:12] - INFO - 点击元素----返回首页
+[2019/07/02 14:42:12] - INFO - testIntoFeed20
+[2019/07/02 14:42:22] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:42:22] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:42:33] - INFO - 点击元素----进入信息流
+[2019/07/02 14:42:43] - INFO - 点击元素----返回首页
+[2019/07/02 14:42:43] - INFO - testIntoFeed21
+[2019/07/02 14:42:53] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:42:53] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:43:04] - INFO - 点击元素----进入信息流
+[2019/07/02 14:43:14] - INFO - 点击元素----返回首页
+[2019/07/02 14:43:14] - INFO - testIntoFeed22
+[2019/07/02 14:43:24] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:43:24] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:43:34] - INFO - 点击元素----进入信息流
+[2019/07/02 14:43:45] - INFO - 点击元素----返回首页
+[2019/07/02 14:43:45] - INFO - testIntoFeed23
+[2019/07/02 14:43:55] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:43:55] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:44:05] - INFO - 点击元素----进入信息流
+[2019/07/02 14:44:15] - INFO - 点击元素----返回首页
+[2019/07/02 14:44:15] - INFO - testIntoFeed24
+[2019/07/02 14:44:25] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:44:25] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:44:36] - INFO - 点击元素----进入信息流
+[2019/07/02 14:44:46] - INFO - 点击元素----返回首页
+[2019/07/02 14:44:46] - INFO - testIntoFeed25
+[2019/07/02 14:44:56] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:44:56] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:45:06] - INFO - 点击元素----进入信息流
+[2019/07/02 14:45:17] - INFO - 点击元素----返回首页
+[2019/07/02 14:45:17] - INFO - testIntoFeed26
+[2019/07/02 14:45:27] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:45:27] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:45:37] - INFO - 点击元素----进入信息流
+[2019/07/02 14:45:47] - INFO - 点击元素----返回首页
+[2019/07/02 14:45:47] - INFO - testIntoFeed27
+[2019/07/02 14:45:57] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:45:57] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:46:08] - INFO - 点击元素----进入信息流
+[2019/07/02 14:46:18] - INFO - 点击元素----返回首页
+[2019/07/02 14:46:18] - INFO - testIntoFeed28
+[2019/07/02 14:46:28] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:46:28] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:46:38] - INFO - 点击元素----进入信息流
+[2019/07/02 14:46:49] - INFO - 点击元素----返回首页
+[2019/07/02 14:46:49] - INFO - testIntoFeed29
+[2019/07/02 14:46:59] - INFO - 点击元素----取消弹窗
+[2019/07/02 14:47:09] - INFO - 点击元素----进入信息流
+[2019/07/02 14:47:21] - INFO - 点击元素----返回首页
+[2019/07/02 14:47:21] - INFO - testIntoFeed30
+[2019/07/02 14:47:31] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:47:31] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:47:41] - INFO - 点击元素----进入信息流
+[2019/07/02 14:47:52] - INFO - 点击元素----返回首页
+[2019/07/02 14:47:52] - INFO - testIntoFeed31
+[2019/07/02 14:48:02] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:48:02] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:48:12] - INFO - 点击元素----进入信息流
+[2019/07/02 14:48:22] - INFO - 点击元素----返回首页
+[2019/07/02 14:48:22] - INFO - testIntoFeed32
+[2019/07/02 14:48:32] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:48:32] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:48:43] - INFO - 点击元素----进入信息流
+[2019/07/02 14:48:53] - INFO - 点击元素----返回首页
+[2019/07/02 14:48:53] - INFO - testIntoFeed33
+[2019/07/02 14:49:03] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:49:03] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:49:13] - INFO - 点击元素----进入信息流
+[2019/07/02 14:49:24] - INFO - 点击元素----返回首页
+[2019/07/02 14:49:24] - INFO - testIntoFeed34
+[2019/07/02 14:49:34] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:49:34] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:49:44] - INFO - 点击元素----进入信息流
+[2019/07/02 14:49:54] - INFO - 点击元素----返回首页
+[2019/07/02 14:49:54] - INFO - testIntoFeed35
+[2019/07/02 14:50:04] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:50:04] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:50:15] - INFO - 点击元素----进入信息流
+[2019/07/02 14:50:25] - INFO - 点击元素----返回首页
+[2019/07/02 14:50:25] - INFO - testIntoFeed36
+[2019/07/02 14:50:35] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:50:35] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:50:45] - INFO - 点击元素----进入信息流
+[2019/07/02 14:50:56] - INFO - 点击元素----返回首页
+[2019/07/02 14:50:56] - INFO - testIntoFeed37
+[2019/07/02 14:51:06] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:51:06] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:51:16] - INFO - 点击元素----进入信息流
+[2019/07/02 14:51:26] - INFO - 点击元素----返回首页
+[2019/07/02 14:51:26] - INFO - testIntoFeed38
+[2019/07/02 14:51:37] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:51:37] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:51:47] - INFO - 点击元素----进入信息流
+[2019/07/02 14:51:58] - INFO - 点击元素----返回首页
+[2019/07/02 14:51:58] - INFO - testIntoFeed39
+[2019/07/02 14:52:08] - INFO - 点击元素----取消弹窗
+[2019/07/02 14:52:19] - INFO - 点击元素----进入信息流
+[2019/07/02 14:52:29] - INFO - 点击元素----返回首页
+[2019/07/02 14:52:29] - INFO - testIntoFeed40
+[2019/07/02 14:52:39] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:52:39] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:52:49] - INFO - 点击元素----进入信息流
+[2019/07/02 14:52:59] - INFO - 点击元素----返回首页
+[2019/07/02 14:52:59] - INFO - testIntoFeed41
+[2019/07/02 14:53:10] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:53:10] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:53:20] - INFO - 点击元素----进入信息流
+[2019/07/02 14:53:30] - INFO - 点击元素----返回首页
+[2019/07/02 14:53:30] - INFO - testIntoFeed42
+[2019/07/02 14:53:40] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:53:40] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:53:51] - INFO - 点击元素----进入信息流
+[2019/07/02 14:54:01] - INFO - 点击元素----返回首页
+[2019/07/02 14:54:01] - INFO - testIntoFeed43
+[2019/07/02 14:54:11] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:54:11] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:54:21] - INFO - 点击元素----进入信息流
+[2019/07/02 14:54:31] - INFO - 点击元素----返回首页
+[2019/07/02 14:54:31] - INFO - testIntoFeed44
+[2019/07/02 14:54:42] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:54:42] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:54:52] - INFO - 点击元素----进入信息流
+[2019/07/02 14:55:02] - INFO - 点击元素----返回首页
+[2019/07/02 14:55:02] - INFO - testIntoFeed45
+[2019/07/02 14:55:12] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:55:12] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:55:23] - INFO - 点击元素----进入信息流
+[2019/07/02 14:55:33] - INFO - 点击元素----返回首页
+[2019/07/02 14:55:33] - INFO - testIntoFeed46
+[2019/07/02 14:55:43] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:55:43] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:55:53] - INFO - 点击元素----进入信息流
+[2019/07/02 14:56:03] - INFO - 点击元素----返回首页
+[2019/07/02 14:56:03] - INFO - testIntoFeed47
+[2019/07/02 14:56:14] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:56:14] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:56:24] - INFO - 点击元素----进入信息流
+[2019/07/02 14:56:34] - INFO - 点击元素----返回首页
+[2019/07/02 14:56:34] - INFO - testIntoFeed48
+[2019/07/02 14:56:44] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:56:44] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:56:55] - INFO - 点击元素----进入信息流
+[2019/07/02 14:57:05] - INFO - 点击元素----返回首页
+[2019/07/02 14:57:05] - INFO - testIntoFeed49
+[2019/07/02 14:57:15] - INFO - 点击元素----取消弹窗
+[2019/07/02 14:57:25] - INFO - 点击元素----进入信息流
+[2019/07/02 14:57:36] - INFO - 点击元素----返回首页
+[2019/07/02 14:57:36] - INFO - testIntoFeed50
+[2019/07/02 14:57:46] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:57:46] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:57:56] - INFO - 点击元素----进入信息流
+[2019/07/02 14:58:06] - INFO - 点击元素----返回首页
+[2019/07/02 14:58:06] - INFO - testIntoFeed51
+[2019/07/02 14:58:16] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:58:16] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:58:27] - INFO - 点击元素----进入信息流
+[2019/07/02 14:58:37] - INFO - 点击元素----返回首页
+[2019/07/02 14:58:37] - INFO - testIntoFeed52
+[2019/07/02 14:58:47] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:58:47] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:58:58] - INFO - 点击元素----进入信息流
+[2019/07/02 14:59:08] - INFO - 点击元素----返回首页
+[2019/07/02 14:59:08] - INFO - testIntoFeed53
+[2019/07/02 14:59:18] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:59:18] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:59:28] - INFO - 点击元素----进入信息流
+[2019/07/02 14:59:39] - INFO - 点击元素----返回首页
+[2019/07/02 14:59:39] - INFO - testIntoFeed54
+[2019/07/02 14:59:49] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 14:59:49] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 14:59:59] - INFO - 点击元素----进入信息流
+[2019/07/02 15:00:09] - INFO - 点击元素----返回首页
+[2019/07/02 15:00:09] - INFO - testIntoFeed55
+[2019/07/02 15:00:19] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:00:19] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:00:30] - INFO - 点击元素----进入信息流
+[2019/07/02 15:00:40] - INFO - 点击元素----返回首页
+[2019/07/02 15:00:40] - INFO - testIntoFeed56
+[2019/07/02 15:00:50] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:00:50] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:01:01] - INFO - 点击元素----进入信息流
+[2019/07/02 15:01:11] - INFO - 点击元素----返回首页
+[2019/07/02 15:01:11] - INFO - testIntoFeed57
+[2019/07/02 15:01:21] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:01:21] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:01:31] - INFO - 点击元素----进入信息流
+[2019/07/02 15:01:43] - ERROR - 返回首页Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:01:55] - ERROR - 返回首页Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:02:05] - ERROR - 返回首页Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:02:05] - ERROR - 点击元素失败，没有该元素----返回首页
+[2019/07/02 15:02:58] - INFO - 点击元素----取消弹窗
+[2019/07/02 15:03:08] - INFO - 点击元素----进入信息流
+[2019/07/02 15:03:20] - INFO - 点击元素----返回首页
+[2019/07/02 15:03:20] - INFO - testIntoFeed0
+[2019/07/02 15:03:30] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:03:30] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:03:40] - INFO - 点击元素----进入信息流
+[2019/07/02 15:03:51] - INFO - 点击元素----返回首页
+[2019/07/02 15:03:51] - INFO - testIntoFeed1
+[2019/07/02 15:04:01] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:04:01] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:04:11] - INFO - 点击元素----进入信息流
+[2019/07/02 15:04:21] - INFO - 点击元素----返回首页
+[2019/07/02 15:04:21] - INFO - testIntoFeed2
+[2019/07/02 15:04:31] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:04:31] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:04:42] - INFO - 点击元素----进入信息流
+[2019/07/02 15:04:52] - INFO - 点击元素----返回首页
+[2019/07/02 15:04:52] - INFO - testIntoFeed3
+[2019/07/02 15:05:02] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:05:02] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:05:12] - INFO - 点击元素----进入信息流
+[2019/07/02 15:05:23] - INFO - 点击元素----返回首页
+[2019/07/02 15:05:23] - INFO - testIntoFeed4
+[2019/07/02 15:05:33] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:05:33] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:05:43] - INFO - 点击元素----进入信息流
+[2019/07/02 15:05:53] - INFO - 点击元素----返回首页
+[2019/07/02 15:05:53] - INFO - testIntoFeed5
+[2019/07/02 15:06:03] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:06:03] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:06:14] - INFO - 点击元素----进入信息流
+[2019/07/02 15:06:24] - INFO - 点击元素----返回首页
+[2019/07/02 15:06:24] - INFO - testIntoFeed6
+[2019/07/02 15:06:34] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:06:34] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:06:44] - INFO - 点击元素----进入信息流
+[2019/07/02 15:06:54] - INFO - 点击元素----返回首页
+[2019/07/02 15:06:54] - INFO - testIntoFeed7
+[2019/07/02 15:07:05] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:07:05] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:07:15] - INFO - 点击元素----进入信息流
+[2019/07/02 15:07:25] - INFO - 点击元素----返回首页
+[2019/07/02 15:07:25] - INFO - testIntoFeed8
+[2019/07/02 15:07:35] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:07:35] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:07:46] - INFO - 点击元素----进入信息流
+[2019/07/02 15:07:56] - INFO - 点击元素----返回首页
+[2019/07/02 15:07:56] - INFO - testIntoFeed9
+[2019/07/02 15:08:06] - INFO - 点击元素----取消弹窗
+[2019/07/02 15:08:16] - INFO - 点击元素----进入信息流
+[2019/07/02 15:08:28] - INFO - 点击元素----返回首页
+[2019/07/02 15:08:28] - INFO - testIntoFeed10
+[2019/07/02 15:08:38] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:08:38] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:08:49] - INFO - 点击元素----进入信息流
+[2019/07/02 15:08:59] - INFO - 点击元素----返回首页
+[2019/07/02 15:08:59] - INFO - testIntoFeed11
+[2019/07/02 15:09:09] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:09:09] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:09:20] - INFO - 点击元素----进入信息流
+[2019/07/02 15:09:30] - INFO - 点击元素----返回首页
+[2019/07/02 15:09:30] - INFO - testIntoFeed12
+[2019/07/02 15:09:40] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:09:40] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:09:51] - INFO - 点击元素----进入信息流
+[2019/07/02 15:10:02] - INFO - 点击元素----返回首页
+[2019/07/02 15:10:02] - INFO - testIntoFeed13
+[2019/07/02 15:10:13] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:10:13] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:10:23] - INFO - 点击元素----进入信息流
+[2019/07/02 15:10:33] - INFO - 点击元素----返回首页
+[2019/07/02 15:10:33] - INFO - testIntoFeed14
+[2019/07/02 15:10:43] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:10:43] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:10:54] - INFO - 点击元素----进入信息流
+[2019/07/02 15:11:04] - INFO - 点击元素----返回首页
+[2019/07/02 15:11:04] - INFO - testIntoFeed15
+[2019/07/02 15:11:14] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:11:14] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:11:24] - INFO - 点击元素----进入信息流
+[2019/07/02 15:11:34] - INFO - 点击元素----返回首页
+[2019/07/02 15:11:34] - INFO - testIntoFeed16
+[2019/07/02 15:11:45] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:11:45] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:11:55] - INFO - 点击元素----进入信息流
+[2019/07/02 15:12:05] - INFO - 点击元素----返回首页
+[2019/07/02 15:12:05] - INFO - testIntoFeed17
+[2019/07/02 15:12:15] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:12:15] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:12:26] - INFO - 点击元素----进入信息流
+[2019/07/02 15:12:36] - INFO - 点击元素----返回首页
+[2019/07/02 15:12:36] - INFO - testIntoFeed18
+[2019/07/02 15:12:46] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:12:46] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:12:56] - INFO - 点击元素----进入信息流
+[2019/07/02 15:13:06] - INFO - 点击元素----返回首页
+[2019/07/02 15:13:06] - INFO - testIntoFeed19
+[2019/07/02 15:13:17] - INFO - 点击元素----取消弹窗
+[2019/07/02 15:13:27] - INFO - 点击元素----进入信息流
+[2019/07/02 15:13:37] - INFO - 点击元素----返回首页
+[2019/07/02 15:13:37] - INFO - testIntoFeed20
+[2019/07/02 15:13:47] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:13:47] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:13:58] - INFO - 点击元素----进入信息流
+[2019/07/02 15:14:09] - INFO - 点击元素----返回首页
+[2019/07/02 15:14:09] - INFO - testIntoFeed21
+[2019/07/02 15:14:20] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:14:20] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:14:30] - INFO - 点击元素----进入信息流
+[2019/07/02 15:14:40] - INFO - 点击元素----返回首页
+[2019/07/02 15:14:40] - INFO - testIntoFeed22
+[2019/07/02 15:14:50] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:14:50] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:15:01] - INFO - 点击元素----进入信息流
+[2019/07/02 15:15:11] - INFO - 点击元素----返回首页
+[2019/07/02 15:15:11] - INFO - testIntoFeed23
+[2019/07/02 15:15:21] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:15:21] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:15:31] - INFO - 点击元素----进入信息流
+[2019/07/02 15:15:42] - INFO - 点击元素----返回首页
+[2019/07/02 15:15:42] - INFO - testIntoFeed24
+[2019/07/02 15:15:52] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:15:52] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:16:02] - INFO - 点击元素----进入信息流
+[2019/07/02 15:16:12] - INFO - 点击元素----返回首页
+[2019/07/02 15:16:12] - INFO - testIntoFeed25
+[2019/07/02 15:16:22] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:16:22] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:16:33] - INFO - 点击元素----进入信息流
+[2019/07/02 15:16:43] - INFO - 点击元素----返回首页
+[2019/07/02 15:16:43] - INFO - testIntoFeed26
+[2019/07/02 15:16:53] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:16:53] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:17:03] - INFO - 点击元素----进入信息流
+[2019/07/02 15:17:14] - INFO - 点击元素----返回首页
+[2019/07/02 15:17:14] - INFO - testIntoFeed27
+[2019/07/02 15:17:24] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:17:24] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:17:34] - INFO - 点击元素----进入信息流
+[2019/07/02 15:17:44] - INFO - 点击元素----返回首页
+[2019/07/02 15:17:44] - INFO - testIntoFeed28
+[2019/07/02 15:17:54] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:17:54] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:18:05] - INFO - 点击元素----进入信息流
+[2019/07/02 15:18:16] - INFO - 点击元素----返回首页
+[2019/07/02 15:18:16] - INFO - testIntoFeed29
+[2019/07/02 15:18:26] - INFO - 点击元素----取消弹窗
+[2019/07/02 15:18:37] - INFO - 点击元素----进入信息流
+[2019/07/02 15:18:47] - INFO - 点击元素----返回首页
+[2019/07/02 15:18:47] - INFO - testIntoFeed30
+[2019/07/02 15:18:57] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:18:57] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:19:07] - INFO - 点击元素----进入信息流
+[2019/07/02 15:19:18] - INFO - 点击元素----返回首页
+[2019/07/02 15:19:18] - INFO - testIntoFeed31
+[2019/07/02 15:19:28] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:19:28] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:19:38] - INFO - 点击元素----进入信息流
+[2019/07/02 15:19:48] - INFO - 点击元素----返回首页
+[2019/07/02 15:19:48] - INFO - testIntoFeed32
+[2019/07/02 15:19:58] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:19:58] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:20:09] - INFO - 点击元素----进入信息流
+[2019/07/02 15:20:19] - INFO - 点击元素----返回首页
+[2019/07/02 15:20:19] - INFO - testIntoFeed33
+[2019/07/02 15:20:29] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:20:29] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:20:39] - INFO - 点击元素----进入信息流
+[2019/07/02 15:20:49] - INFO - 点击元素----返回首页
+[2019/07/02 15:20:50] - INFO - testIntoFeed34
+[2019/07/02 15:21:00] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:21:00] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:21:10] - INFO - 点击元素----进入信息流
+[2019/07/02 15:21:22] - INFO - 点击元素----返回首页
+[2019/07/02 15:21:22] - INFO - testIntoFeed35
+[2019/07/02 15:21:32] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:21:32] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:21:42] - INFO - 点击元素----进入信息流
+[2019/07/02 15:21:52] - INFO - 点击元素----返回首页
+[2019/07/02 15:21:52] - INFO - testIntoFeed36
+[2019/07/02 15:22:03] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:22:03] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:22:13] - INFO - 点击元素----进入信息流
+[2019/07/02 15:22:23] - INFO - 点击元素----返回首页
+[2019/07/02 15:22:23] - INFO - testIntoFeed37
+[2019/07/02 15:22:33] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:22:33] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:22:45] - INFO - 点击元素----进入信息流
+[2019/07/02 15:22:55] - INFO - 点击元素----返回首页
+[2019/07/02 15:22:55] - INFO - testIntoFeed38
+[2019/07/02 15:23:05] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:23:05] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:23:15] - INFO - 点击元素----进入信息流
+[2019/07/02 15:23:25] - INFO - 点击元素----返回首页
+[2019/07/02 15:23:25] - INFO - testIntoFeed39
+[2019/07/02 15:23:35] - INFO - 点击元素----取消弹窗
+[2019/07/02 15:23:46] - INFO - 点击元素----进入信息流
+[2019/07/02 15:23:56] - INFO - 点击元素----返回首页
+[2019/07/02 15:23:56] - INFO - testIntoFeed40
+[2019/07/02 15:24:06] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:24:06] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:24:16] - INFO - 点击元素----进入信息流
+[2019/07/02 15:24:27] - INFO - 点击元素----返回首页
+[2019/07/02 15:24:27] - INFO - testIntoFeed41
+[2019/07/02 15:24:37] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:24:37] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:24:47] - INFO - 点击元素----进入信息流
+[2019/07/02 15:24:57] - INFO - 点击元素----返回首页
+[2019/07/02 15:24:57] - INFO - testIntoFeed42
+[2019/07/02 15:25:07] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:25:07] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:25:18] - INFO - 点击元素----进入信息流
+[2019/07/02 15:25:28] - INFO - 点击元素----返回首页
+[2019/07/02 15:25:28] - INFO - testIntoFeed43
+[2019/07/02 15:25:38] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:25:38] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:25:48] - INFO - 点击元素----进入信息流
+[2019/07/02 15:25:59] - INFO - 点击元素----返回首页
+[2019/07/02 15:25:59] - INFO - testIntoFeed44
+[2019/07/02 15:26:09] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:26:09] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:26:19] - INFO - 点击元素----进入信息流
+[2019/07/02 15:26:29] - INFO - 点击元素----返回首页
+[2019/07/02 15:26:29] - INFO - testIntoFeed45
+[2019/07/02 15:26:39] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:26:39] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:26:50] - INFO - 点击元素----进入信息流
+[2019/07/02 15:27:02] - INFO - 点击元素----返回首页
+[2019/07/02 15:27:02] - INFO - testIntoFeed46
+[2019/07/02 15:27:12] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:27:12] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:27:22] - INFO - 点击元素----进入信息流
+[2019/07/02 15:27:34] - INFO - 点击元素----返回首页
+[2019/07/02 15:27:34] - INFO - testIntoFeed47
+[2019/07/02 15:27:44] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:27:44] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:27:55] - INFO - 点击元素----进入信息流
+[2019/07/02 15:28:05] - INFO - 点击元素----返回首页
+[2019/07/02 15:28:05] - INFO - testIntoFeed48
+[2019/07/02 15:28:15] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:28:15] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:28:25] - INFO - 点击元素----进入信息流
+[2019/07/02 15:28:37] - INFO - 点击元素----返回首页
+[2019/07/02 15:28:37] - INFO - testIntoFeed49
+[2019/07/02 15:28:47] - INFO - 点击元素----取消弹窗
+[2019/07/02 15:28:57] - INFO - 点击元素----进入信息流
+[2019/07/02 15:29:07] - INFO - 点击元素----返回首页
+[2019/07/02 15:29:07] - INFO - testIntoFeed50
+[2019/07/02 15:29:17] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:29:17] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:29:28] - INFO - 点击元素----进入信息流
+[2019/07/02 15:29:38] - INFO - 点击元素----返回首页
+[2019/07/02 15:29:38] - INFO - testIntoFeed51
+[2019/07/02 15:29:48] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:29:48] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:29:59] - INFO - 点击元素----进入信息流
+[2019/07/02 15:30:09] - INFO - 点击元素----返回首页
+[2019/07/02 15:30:09] - INFO - testIntoFeed52
+[2019/07/02 15:30:19] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:30:19] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:30:29] - INFO - 点击元素----进入信息流
+[2019/07/02 15:30:39] - INFO - 点击元素----返回首页
+[2019/07/02 15:30:39] - INFO - testIntoFeed53
+[2019/07/02 15:30:50] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:30:50] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:31:00] - INFO - 点击元素----进入信息流
+[2019/07/02 15:31:12] - INFO - 点击元素----返回首页
+[2019/07/02 15:31:12] - INFO - testIntoFeed54
+[2019/07/02 15:31:22] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:31:22] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:31:33] - INFO - 点击元素----进入信息流
+[2019/07/02 15:31:43] - INFO - 点击元素----返回首页
+[2019/07/02 15:31:43] - INFO - testIntoFeed55
+[2019/07/02 15:31:53] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:31:53] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:32:03] - INFO - 点击元素----进入信息流
+[2019/07/02 15:32:14] - INFO - 点击元素----返回首页
+[2019/07/02 15:32:14] - INFO - testIntoFeed56
+[2019/07/02 15:32:24] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:32:24] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:32:34] - INFO - 点击元素----进入信息流
+[2019/07/02 15:32:46] - INFO - 点击元素----返回首页
+[2019/07/02 15:32:46] - INFO - testIntoFeed57
+[2019/07/02 15:32:56] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:32:56] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:33:07] - INFO - 点击元素----进入信息流
+[2019/07/02 15:33:17] - INFO - 点击元素----返回首页
+[2019/07/02 15:33:17] - INFO - testIntoFeed58
+[2019/07/02 15:33:27] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:33:27] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:33:37] - INFO - 点击元素----进入信息流
+[2019/07/02 15:33:49] - INFO - 点击元素----返回首页
+[2019/07/02 15:33:49] - INFO - testIntoFeed59
+[2019/07/02 15:33:59] - INFO - 点击元素----取消弹窗
+[2019/07/02 15:34:09] - INFO - 点击元素----进入信息流
+[2019/07/02 15:34:19] - INFO - 点击元素----返回首页
+[2019/07/02 15:34:19] - INFO - testIntoFeed60
+[2019/07/02 15:34:30] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:34:30] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:34:40] - INFO - 点击元素----进入信息流
+[2019/07/02 15:34:50] - INFO - 点击元素----返回首页
+[2019/07/02 15:34:50] - INFO - testIntoFeed61
+[2019/07/02 15:35:01] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:35:01] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:35:11] - INFO - 点击元素----进入信息流
+[2019/07/02 15:35:21] - INFO - 点击元素----返回首页
+[2019/07/02 15:35:21] - INFO - testIntoFeed62
+[2019/07/02 15:35:31] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:35:31] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:35:42] - INFO - 点击元素----进入信息流
+[2019/07/02 15:35:53] - INFO - 点击元素----返回首页
+[2019/07/02 15:35:53] - INFO - testIntoFeed63
+[2019/07/02 15:36:04] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:36:04] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:36:14] - INFO - 点击元素----进入信息流
+[2019/07/02 15:36:24] - INFO - 点击元素----返回首页
+[2019/07/02 15:36:24] - INFO - testIntoFeed64
+[2019/07/02 15:36:34] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:36:34] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:36:45] - INFO - 点击元素----进入信息流
+[2019/07/02 15:36:55] - INFO - 点击元素----返回首页
+[2019/07/02 15:36:55] - INFO - testIntoFeed65
+[2019/07/02 15:37:05] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:37:05] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:37:15] - INFO - 点击元素----进入信息流
+[2019/07/02 15:37:27] - INFO - 点击元素----返回首页
+[2019/07/02 15:37:27] - INFO - testIntoFeed66
+[2019/07/02 15:37:37] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:37:37] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:37:48] - INFO - 点击元素----进入信息流
+[2019/07/02 15:37:58] - INFO - 点击元素----返回首页
+[2019/07/02 15:37:58] - INFO - testIntoFeed67
+[2019/07/02 15:38:08] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:38:08] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:38:19] - INFO - 点击元素----进入信息流
+[2019/07/02 15:38:29] - INFO - 点击元素----返回首页
+[2019/07/02 15:38:29] - INFO - testIntoFeed68
+[2019/07/02 15:38:39] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:38:39] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:38:49] - INFO - 点击元素----进入信息流
+[2019/07/02 15:38:59] - INFO - 点击元素----返回首页
+[2019/07/02 15:38:59] - INFO - testIntoFeed69
+[2019/07/02 15:39:10] - INFO - 点击元素----取消弹窗
+[2019/07/02 15:39:20] - INFO - 点击元素----进入信息流
+[2019/07/02 15:39:30] - INFO - 点击元素----返回首页
+[2019/07/02 15:39:30] - INFO - testIntoFeed70
+[2019/07/02 15:39:40] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:39:40] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:39:51] - INFO - 点击元素----进入信息流
+[2019/07/02 15:40:01] - INFO - 点击元素----返回首页
+[2019/07/02 15:40:01] - INFO - testIntoFeed71
+[2019/07/02 15:40:11] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:40:11] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:40:22] - INFO - 点击元素----进入信息流
+[2019/07/02 15:40:32] - INFO - 点击元素----返回首页
+[2019/07/02 15:40:32] - INFO - testIntoFeed72
+[2019/07/02 15:40:42] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:40:42] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:40:52] - INFO - 点击元素----进入信息流
+[2019/07/02 15:41:02] - INFO - 点击元素----返回首页
+[2019/07/02 15:41:02] - INFO - testIntoFeed73
+[2019/07/02 15:41:13] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:41:13] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:41:23] - INFO - 点击元素----进入信息流
+[2019/07/02 15:41:33] - INFO - 点击元素----返回首页
+[2019/07/02 15:41:33] - INFO - testIntoFeed74
+[2019/07/02 15:41:43] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:41:43] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:41:54] - INFO - 点击元素----进入信息流
+[2019/07/02 15:42:04] - INFO - 点击元素----返回首页
+[2019/07/02 15:42:04] - INFO - testIntoFeed75
+[2019/07/02 15:42:14] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:42:14] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:42:24] - INFO - 点击元素----进入信息流
+[2019/07/02 15:42:36] - INFO - 点击元素----返回首页
+[2019/07/02 15:42:36] - INFO - testIntoFeed76
+[2019/07/02 15:42:47] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:42:47] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:42:57] - INFO - 点击元素----进入信息流
+[2019/07/02 15:43:09] - INFO - 点击元素----返回首页
+[2019/07/02 15:43:09] - INFO - testIntoFeed77
+[2019/07/02 15:43:19] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:43:19] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:43:29] - INFO - 点击元素----进入信息流
+[2019/07/02 15:43:39] - INFO - 点击元素----返回首页
+[2019/07/02 15:43:39] - INFO - testIntoFeed78
+[2019/07/02 15:43:49] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:43:49] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:44:00] - INFO - 点击元素----进入信息流
+[2019/07/02 15:44:11] - INFO - 点击元素----返回首页
+[2019/07/02 15:44:11] - INFO - testIntoFeed79
+[2019/07/02 15:44:21] - INFO - 点击元素----取消弹窗
+[2019/07/02 15:44:32] - INFO - 点击元素----进入信息流
+[2019/07/02 15:44:42] - INFO - 点击元素----返回首页
+[2019/07/02 15:44:42] - INFO - testIntoFeed80
+[2019/07/02 15:44:52] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:44:52] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:45:02] - INFO - 点击元素----进入信息流
+[2019/07/02 15:45:13] - INFO - 点击元素----返回首页
+[2019/07/02 15:45:13] - INFO - testIntoFeed81
+[2019/07/02 15:45:23] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:45:23] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:45:33] - INFO - 点击元素----进入信息流
+[2019/07/02 15:45:45] - INFO - 点击元素----返回首页
+[2019/07/02 15:45:45] - INFO - testIntoFeed82
+[2019/07/02 15:45:55] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:45:55] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:46:05] - INFO - 点击元素----进入信息流
+[2019/07/02 15:46:16] - INFO - 点击元素----返回首页
+[2019/07/02 15:46:16] - INFO - testIntoFeed83
+[2019/07/02 15:46:26] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:46:26] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:46:36] - INFO - 点击元素----进入信息流
+[2019/07/02 15:46:48] - INFO - 点击元素----返回首页
+[2019/07/02 15:46:48] - INFO - testIntoFeed84
+[2019/07/02 15:46:59] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:46:59] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:47:09] - INFO - 点击元素----进入信息流
+[2019/07/02 15:47:21] - INFO - 点击元素----返回首页
+[2019/07/02 15:47:21] - INFO - testIntoFeed85
+[2019/07/02 15:47:31] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:47:31] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:47:42] - INFO - 点击元素----进入信息流
+[2019/07/02 15:47:52] - INFO - 点击元素----返回首页
+[2019/07/02 15:47:52] - INFO - testIntoFeed86
+[2019/07/02 15:48:02] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:48:02] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:48:12] - INFO - 点击元素----进入信息流
+[2019/07/02 15:48:23] - INFO - 点击元素----返回首页
+[2019/07/02 15:48:23] - INFO - testIntoFeed87
+[2019/07/02 15:48:33] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:48:33] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:48:43] - INFO - 点击元素----进入信息流
+[2019/07/02 15:48:53] - INFO - 点击元素----返回首页
+[2019/07/02 15:48:53] - INFO - testIntoFeed88
+[2019/07/02 15:49:03] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:49:03] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:49:14] - INFO - 点击元素----进入信息流
+[2019/07/02 15:49:24] - INFO - 点击元素----返回首页
+[2019/07/02 15:49:24] - INFO - testIntoFeed89
+[2019/07/02 15:49:34] - INFO - 点击元素----取消弹窗
+[2019/07/02 15:49:44] - INFO - 点击元素----进入信息流
+[2019/07/02 15:49:56] - INFO - 点击元素----返回首页
+[2019/07/02 15:49:56] - INFO - testIntoFeed90
+[2019/07/02 15:50:07] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:50:07] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:50:18] - INFO - 点击元素----进入信息流
+[2019/07/02 15:50:29] - INFO - 点击元素----返回首页
+[2019/07/02 15:50:29] - INFO - testIntoFeed91
+[2019/07/02 15:50:40] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:50:40] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:50:50] - INFO - 点击元素----进入信息流
+[2019/07/02 15:51:02] - INFO - 点击元素----返回首页
+[2019/07/02 15:51:02] - INFO - testIntoFeed92
+[2019/07/02 15:51:12] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:51:12] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:51:23] - INFO - 点击元素----进入信息流
+[2019/07/02 15:51:33] - INFO - 点击元素----返回首页
+[2019/07/02 15:51:33] - INFO - testIntoFeed93
+[2019/07/02 15:51:43] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:51:43] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:51:53] - INFO - 点击元素----进入信息流
+[2019/07/02 15:52:03] - INFO - 点击元素----返回首页
+[2019/07/02 15:52:03] - INFO - testIntoFeed94
+[2019/07/02 15:52:14] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:52:14] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:52:24] - INFO - 点击元素----进入信息流
+[2019/07/02 15:52:34] - INFO - 点击元素----返回首页
+[2019/07/02 15:52:34] - INFO - testIntoFeed95
+[2019/07/02 15:52:44] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:52:44] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:52:54] - INFO - 点击元素----进入信息流
+[2019/07/02 15:53:04] - INFO - 点击元素----返回首页
+[2019/07/02 15:53:04] - INFO - testIntoFeed96
+[2019/07/02 15:53:15] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:53:15] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:53:25] - INFO - 点击元素----进入信息流
+[2019/07/02 15:53:35] - INFO - 点击元素----返回首页
+[2019/07/02 15:53:35] - INFO - testIntoFeed97
+[2019/07/02 15:53:45] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:53:45] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:53:55] - INFO - 点击元素----进入信息流
+[2019/07/02 15:54:06] - INFO - 点击元素----返回首页
+[2019/07/02 15:54:06] - INFO - testIntoFeed98
+[2019/07/02 15:54:16] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:54:16] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:54:26] - INFO - 点击元素----进入信息流
+[2019/07/02 15:54:36] - INFO - 点击元素----返回首页
+[2019/07/02 15:54:36] - INFO - testIntoFeed99
+[2019/07/02 15:54:46] - INFO - 点击元素----取消弹窗
+[2019/07/02 15:54:56] - INFO - 点击元素----进入信息流
+[2019/07/02 15:55:07] - INFO - 点击元素----返回首页
+[2019/07/02 15:55:07] - INFO - testIntoFeed100
+[2019/07/02 15:55:17] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:55:17] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:55:27] - INFO - 点击元素----进入信息流
+[2019/07/02 15:55:37] - INFO - 点击元素----返回首页
+[2019/07/02 15:55:37] - INFO - testIntoFeed101
+[2019/07/02 15:55:47] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:55:47] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:55:58] - INFO - 点击元素----进入信息流
+[2019/07/02 15:56:08] - INFO - 点击元素----返回首页
+[2019/07/02 15:56:08] - INFO - testIntoFeed102
+[2019/07/02 15:56:18] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:56:18] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:56:28] - INFO - 点击元素----进入信息流
+[2019/07/02 15:56:40] - INFO - 点击元素----返回首页
+[2019/07/02 15:56:40] - INFO - testIntoFeed103
+[2019/07/02 15:56:50] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:56:50] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:57:01] - INFO - 点击元素----进入信息流
+[2019/07/02 15:57:11] - INFO - 点击元素----返回首页
+[2019/07/02 15:57:11] - INFO - testIntoFeed104
+[2019/07/02 15:57:21] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:57:21] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:57:31] - INFO - 点击元素----进入信息流
+[2019/07/02 15:57:42] - INFO - 点击元素----返回首页
+[2019/07/02 15:57:42] - INFO - testIntoFeed105
+[2019/07/02 15:57:52] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:57:52] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:58:02] - INFO - 点击元素----进入信息流
+[2019/07/02 15:58:12] - INFO - 点击元素----返回首页
+[2019/07/02 15:58:12] - INFO - testIntoFeed106
+[2019/07/02 15:58:22] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:58:22] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:58:33] - INFO - 点击元素----进入信息流
+[2019/07/02 15:58:43] - INFO - 点击元素----返回首页
+[2019/07/02 15:58:43] - INFO - testIntoFeed107
+[2019/07/02 15:58:53] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:58:53] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:59:03] - INFO - 点击元素----进入信息流
+[2019/07/02 15:59:14] - INFO - 点击元素----返回首页
+[2019/07/02 15:59:14] - INFO - testIntoFeed108
+[2019/07/02 15:59:24] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 15:59:24] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 15:59:34] - INFO - 点击元素----进入信息流
+[2019/07/02 15:59:44] - INFO - 点击元素----返回首页
+[2019/07/02 15:59:44] - INFO - testIntoFeed109
+[2019/07/02 15:59:55] - INFO - 点击元素----取消弹窗
+[2019/07/02 16:00:05] - INFO - 点击元素----进入信息流
+[2019/07/02 16:00:17] - INFO - 点击元素----返回首页
+[2019/07/02 16:00:17] - INFO - testIntoFeed110
+[2019/07/02 16:00:27] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:00:27] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:00:37] - INFO - 点击元素----进入信息流
+[2019/07/02 16:00:49] - INFO - 点击元素----返回首页
+[2019/07/02 16:00:49] - INFO - testIntoFeed111
+[2019/07/02 16:00:59] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:00:59] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:01:10] - INFO - 点击元素----进入信息流
+[2019/07/02 16:01:21] - INFO - 点击元素----返回首页
+[2019/07/02 16:01:21] - INFO - testIntoFeed112
+[2019/07/02 16:01:32] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:01:32] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:01:42] - INFO - 点击元素----进入信息流
+[2019/07/02 16:01:52] - INFO - 点击元素----返回首页
+[2019/07/02 16:01:52] - INFO - testIntoFeed113
+[2019/07/02 16:02:02] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:02:02] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:02:13] - INFO - 点击元素----进入信息流
+[2019/07/02 16:02:23] - INFO - 点击元素----返回首页
+[2019/07/02 16:02:23] - INFO - testIntoFeed114
+[2019/07/02 16:02:33] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:02:33] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:02:43] - INFO - 点击元素----进入信息流
+[2019/07/02 16:02:55] - INFO - 点击元素----返回首页
+[2019/07/02 16:02:55] - INFO - testIntoFeed115
+[2019/07/02 16:03:05] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:03:05] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:03:16] - INFO - 点击元素----进入信息流
+[2019/07/02 16:03:26] - INFO - 点击元素----返回首页
+[2019/07/02 16:03:26] - INFO - testIntoFeed116
+[2019/07/02 16:03:36] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:03:36] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:03:46] - INFO - 点击元素----进入信息流
+[2019/07/02 16:03:58] - INFO - 点击元素----返回首页
+[2019/07/02 16:03:58] - INFO - testIntoFeed117
+[2019/07/02 16:04:08] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:04:08] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:04:19] - INFO - 点击元素----进入信息流
+[2019/07/02 16:04:29] - INFO - 点击元素----返回首页
+[2019/07/02 16:04:29] - INFO - testIntoFeed118
+[2019/07/02 16:04:39] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:04:39] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:04:49] - INFO - 点击元素----进入信息流
+[2019/07/02 16:05:00] - INFO - 点击元素----返回首页
+[2019/07/02 16:05:00] - INFO - testIntoFeed119
+[2019/07/02 16:05:10] - INFO - 点击元素----取消弹窗
+[2019/07/02 16:05:20] - INFO - 点击元素----进入信息流
+[2019/07/02 16:05:30] - INFO - 点击元素----返回首页
+[2019/07/02 16:05:30] - INFO - testIntoFeed120
+[2019/07/02 16:05:40] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:05:40] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:05:51] - INFO - 点击元素----进入信息流
+[2019/07/02 16:06:01] - INFO - 点击元素----返回首页
+[2019/07/02 16:06:01] - INFO - testIntoFeed121
+[2019/07/02 16:06:11] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:06:11] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:06:21] - INFO - 点击元素----进入信息流
+[2019/07/02 16:06:31] - INFO - 点击元素----返回首页
+[2019/07/02 16:06:31] - INFO - testIntoFeed122
+[2019/07/02 16:06:42] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:06:42] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:06:52] - INFO - 点击元素----进入信息流
+[2019/07/02 16:07:02] - INFO - 点击元素----返回首页
+[2019/07/02 16:07:02] - INFO - testIntoFeed123
+[2019/07/02 16:07:12] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:07:12] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:07:22] - INFO - 点击元素----进入信息流
+[2019/07/02 16:07:33] - INFO - 点击元素----返回首页
+[2019/07/02 16:07:33] - INFO - testIntoFeed124
+[2019/07/02 16:07:43] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:07:43] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:07:53] - INFO - 点击元素----进入信息流
+[2019/07/02 16:08:03] - INFO - 点击元素----返回首页
+[2019/07/02 16:08:03] - INFO - testIntoFeed125
+[2019/07/02 16:08:13] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:08:13] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:08:24] - INFO - 点击元素----进入信息流
+[2019/07/02 16:08:34] - INFO - 点击元素----返回首页
+[2019/07/02 16:08:34] - INFO - testIntoFeed126
+[2019/07/02 16:08:44] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:08:44] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:08:54] - INFO - 点击元素----进入信息流
+[2019/07/02 16:09:04] - INFO - 点击元素----返回首页
+[2019/07/02 16:09:04] - INFO - testIntoFeed127
+[2019/07/02 16:09:15] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:09:15] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:09:25] - INFO - 点击元素----进入信息流
+[2019/07/02 16:09:35] - INFO - 点击元素----返回首页
+[2019/07/02 16:09:35] - INFO - testIntoFeed128
+[2019/07/02 16:09:45] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:09:45] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:09:56] - INFO - 点击元素----进入信息流
+[2019/07/02 16:10:06] - INFO - 点击元素----返回首页
+[2019/07/02 16:10:06] - INFO - testIntoFeed129
+[2019/07/02 16:10:16] - INFO - 点击元素----取消弹窗
+[2019/07/02 16:10:26] - INFO - 点击元素----进入信息流
+[2019/07/02 16:10:36] - INFO - 点击元素----返回首页
+[2019/07/02 16:10:36] - INFO - testIntoFeed130
+[2019/07/02 16:10:46] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:10:46] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:10:57] - INFO - 点击元素----进入信息流
+[2019/07/02 16:11:07] - INFO - 点击元素----返回首页
+[2019/07/02 16:11:07] - INFO - testIntoFeed131
+[2019/07/02 16:11:17] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:11:17] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:11:27] - INFO - 点击元素----进入信息流
+[2019/07/02 16:11:37] - INFO - 点击元素----返回首页
+[2019/07/02 16:11:37] - INFO - testIntoFeed132
+[2019/07/02 16:11:48] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:11:48] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:11:58] - INFO - 点击元素----进入信息流
+[2019/07/02 16:12:08] - INFO - 点击元素----返回首页
+[2019/07/02 16:12:08] - INFO - testIntoFeed133
+[2019/07/02 16:12:18] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:12:18] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:12:28] - INFO - 点击元素----进入信息流
+[2019/07/02 16:12:40] - INFO - 点击元素----返回首页
+[2019/07/02 16:12:40] - INFO - testIntoFeed134
+[2019/07/02 16:12:50] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:12:50] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:13:01] - INFO - 点击元素----进入信息流
+[2019/07/02 16:13:11] - INFO - 点击元素----返回首页
+[2019/07/02 16:13:11] - INFO - testIntoFeed135
+[2019/07/02 16:13:21] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:13:21] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:13:31] - INFO - 点击元素----进入信息流
+[2019/07/02 16:13:42] - INFO - 点击元素----返回首页
+[2019/07/02 16:13:42] - INFO - testIntoFeed136
+[2019/07/02 16:13:52] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:13:52] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:14:02] - INFO - 点击元素----进入信息流
+[2019/07/02 16:14:14] - INFO - 点击元素----返回首页
+[2019/07/02 16:14:14] - INFO - testIntoFeed137
+[2019/07/02 16:14:24] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:14:24] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:14:34] - INFO - 点击元素----进入信息流
+[2019/07/02 16:14:46] - INFO - 点击元素----返回首页
+[2019/07/02 16:14:46] - INFO - testIntoFeed138
+[2019/07/02 16:14:56] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:14:56] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:15:06] - INFO - 点击元素----进入信息流
+[2019/07/02 16:15:17] - INFO - 点击元素----返回首页
+[2019/07/02 16:15:17] - INFO - testIntoFeed139
+[2019/07/02 16:15:27] - INFO - 点击元素----取消弹窗
+[2019/07/02 16:15:37] - INFO - 点击元素----进入信息流
+[2019/07/02 16:15:47] - INFO - 点击元素----返回首页
+[2019/07/02 16:15:47] - INFO - testIntoFeed140
+[2019/07/02 16:15:57] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:15:57] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:16:08] - INFO - 点击元素----进入信息流
+[2019/07/02 16:16:19] - INFO - 点击元素----返回首页
+[2019/07/02 16:16:19] - INFO - testIntoFeed141
+[2019/07/02 16:16:30] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:16:30] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:16:40] - INFO - 点击元素----进入信息流
+[2019/07/02 16:16:52] - INFO - 点击元素----返回首页
+[2019/07/02 16:16:52] - INFO - testIntoFeed142
+[2019/07/02 16:17:02] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:17:02] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:17:12] - INFO - 点击元素----进入信息流
+[2019/07/02 16:17:22] - INFO - 点击元素----返回首页
+[2019/07/02 16:17:22] - INFO - testIntoFeed143
+[2019/07/02 16:17:33] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:17:33] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:17:43] - INFO - 点击元素----进入信息流
+[2019/07/02 16:17:53] - INFO - 点击元素----返回首页
+[2019/07/02 16:17:53] - INFO - testIntoFeed144
+[2019/07/02 16:18:03] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:18:03] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:18:14] - INFO - 点击元素----进入信息流
+[2019/07/02 16:18:24] - INFO - 点击元素----返回首页
+[2019/07/02 16:18:24] - INFO - testIntoFeed145
+[2019/07/02 16:18:34] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:18:34] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:18:44] - INFO - 点击元素----进入信息流
+[2019/07/02 16:18:55] - INFO - 点击元素----返回首页
+[2019/07/02 16:18:55] - INFO - testIntoFeed146
+[2019/07/02 16:19:05] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:19:05] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:19:15] - INFO - 点击元素----进入信息流
+[2019/07/02 16:19:25] - INFO - 点击元素----返回首页
+[2019/07/02 16:19:25] - INFO - testIntoFeed147
+[2019/07/02 16:19:35] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:19:35] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:19:46] - INFO - 点击元素----进入信息流
+[2019/07/02 16:19:56] - INFO - 点击元素----返回首页
+[2019/07/02 16:19:56] - INFO - testIntoFeed148
+[2019/07/02 16:20:06] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:20:06] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:20:17] - INFO - 点击元素----进入信息流
+[2019/07/02 16:20:27] - INFO - 点击元素----返回首页
+[2019/07/02 16:20:27] - INFO - testIntoFeed149
+[2019/07/02 16:20:37] - INFO - 点击元素----取消弹窗
+[2019/07/02 16:20:47] - INFO - 点击元素----进入信息流
+[2019/07/02 16:20:57] - INFO - 点击元素----返回首页
+[2019/07/02 16:20:57] - INFO - testIntoFeed150
+[2019/07/02 16:21:08] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:21:08] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:21:18] - INFO - 点击元素----进入信息流
+[2019/07/02 16:21:30] - INFO - 点击元素----返回首页
+[2019/07/02 16:21:30] - INFO - testIntoFeed151
+[2019/07/02 16:21:40] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:21:40] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:21:50] - INFO - 点击元素----进入信息流
+[2019/07/02 16:22:00] - INFO - 点击元素----返回首页
+[2019/07/02 16:22:00] - INFO - testIntoFeed152
+[2019/07/02 16:22:11] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:22:11] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:22:21] - INFO - 点击元素----进入信息流
+[2019/07/02 16:22:33] - INFO - 点击元素----返回首页
+[2019/07/02 16:22:33] - INFO - testIntoFeed153
+[2019/07/02 16:22:43] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:22:43] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:22:53] - INFO - 点击元素----进入信息流
+[2019/07/02 16:23:04] - INFO - 点击元素----返回首页
+[2019/07/02 16:23:04] - INFO - testIntoFeed154
+[2019/07/02 16:23:14] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:23:14] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:23:24] - INFO - 点击元素----进入信息流
+[2019/07/02 16:23:34] - INFO - 点击元素----返回首页
+[2019/07/02 16:23:34] - INFO - testIntoFeed155
+[2019/07/02 16:23:44] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:23:44] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:23:55] - INFO - 点击元素----进入信息流
+[2019/07/02 16:24:05] - INFO - 点击元素----返回首页
+[2019/07/02 16:24:05] - INFO - testIntoFeed156
+[2019/07/02 16:24:15] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:24:15] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:24:25] - INFO - 点击元素----进入信息流
+[2019/07/02 16:24:35] - INFO - 点击元素----返回首页
+[2019/07/02 16:24:35] - INFO - testIntoFeed157
+[2019/07/02 16:24:45] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:24:45] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:24:56] - INFO - 点击元素----进入信息流
+[2019/07/02 16:25:06] - INFO - 点击元素----返回首页
+[2019/07/02 16:25:06] - INFO - testIntoFeed158
+[2019/07/02 16:25:16] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:25:16] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:25:26] - INFO - 点击元素----进入信息流
+[2019/07/02 16:25:37] - INFO - 点击元素----返回首页
+[2019/07/02 16:25:37] - INFO - testIntoFeed159
+[2019/07/02 16:25:47] - INFO - 点击元素----取消弹窗
+[2019/07/02 16:25:57] - INFO - 点击元素----进入信息流
+[2019/07/02 16:26:07] - INFO - 点击元素----返回首页
+[2019/07/02 16:26:07] - INFO - testIntoFeed160
+[2019/07/02 16:26:17] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:26:17] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:26:28] - INFO - 点击元素----进入信息流
+[2019/07/02 16:26:38] - INFO - 点击元素----返回首页
+[2019/07/02 16:26:38] - INFO - testIntoFeed161
+[2019/07/02 16:26:48] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:26:48] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:26:58] - INFO - 点击元素----进入信息流
+[2019/07/02 16:27:08] - INFO - 点击元素----返回首页
+[2019/07/02 16:27:08] - INFO - testIntoFeed162
+[2019/07/02 16:27:18] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:27:18] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:27:29] - INFO - 点击元素----进入信息流
+[2019/07/02 16:27:39] - INFO - 点击元素----返回首页
+[2019/07/02 16:27:39] - INFO - testIntoFeed163
+[2019/07/02 16:27:49] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:27:49] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:27:59] - INFO - 点击元素----进入信息流
+[2019/07/02 16:28:09] - INFO - 点击元素----返回首页
+[2019/07/02 16:28:09] - INFO - testIntoFeed164
+[2019/07/02 16:28:20] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:28:20] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:28:30] - INFO - 点击元素----进入信息流
+[2019/07/02 16:28:40] - INFO - 点击元素----返回首页
+[2019/07/02 16:28:40] - INFO - testIntoFeed165
+[2019/07/02 16:28:50] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:28:50] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:29:00] - INFO - 点击元素----进入信息流
+[2019/07/02 16:29:11] - INFO - 点击元素----返回首页
+[2019/07/02 16:29:11] - INFO - testIntoFeed166
+[2019/07/02 16:29:21] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:29:21] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:29:31] - INFO - 点击元素----进入信息流
+[2019/07/02 16:29:43] - INFO - 点击元素----返回首页
+[2019/07/02 16:29:43] - INFO - testIntoFeed167
+[2019/07/02 16:29:53] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:29:53] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:30:03] - INFO - 点击元素----进入信息流
+[2019/07/02 16:30:13] - INFO - 点击元素----返回首页
+[2019/07/02 16:30:13] - INFO - testIntoFeed168
+[2019/07/02 16:30:24] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:30:24] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:30:34] - INFO - 点击元素----进入信息流
+[2019/07/02 16:30:44] - INFO - 点击元素----返回首页
+[2019/07/02 16:30:44] - INFO - testIntoFeed169
+[2019/07/02 16:30:54] - INFO - 点击元素----取消弹窗
+[2019/07/02 16:31:04] - INFO - 点击元素----进入信息流
+[2019/07/02 16:31:14] - INFO - 点击元素----返回首页
+[2019/07/02 16:31:14] - INFO - testIntoFeed170
+[2019/07/02 16:31:25] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:31:25] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:31:35] - INFO - 点击元素----进入信息流
+[2019/07/02 16:31:45] - INFO - 点击元素----返回首页
+[2019/07/02 16:31:45] - INFO - testIntoFeed171
+[2019/07/02 16:31:55] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:31:55] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:32:05] - INFO - 点击元素----进入信息流
+[2019/07/02 16:32:17] - INFO - 点击元素----返回首页
+[2019/07/02 16:32:17] - INFO - testIntoFeed172
+[2019/07/02 16:32:27] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:32:27] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:32:38] - INFO - 点击元素----进入信息流
+[2019/07/02 16:32:48] - INFO - 点击元素----返回首页
+[2019/07/02 16:32:48] - INFO - testIntoFeed173
+[2019/07/02 16:32:58] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:32:58] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:33:08] - INFO - 点击元素----进入信息流
+[2019/07/02 16:33:18] - INFO - 点击元素----返回首页
+[2019/07/02 16:33:18] - INFO - testIntoFeed174
+[2019/07/02 16:33:29] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:33:29] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:33:39] - INFO - 点击元素----进入信息流
+[2019/07/02 16:33:49] - INFO - 点击元素----返回首页
+[2019/07/02 16:33:49] - INFO - testIntoFeed175
+[2019/07/02 16:33:59] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:33:59] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:34:09] - INFO - 点击元素----进入信息流
+[2019/07/02 16:34:20] - INFO - 点击元素----返回首页
+[2019/07/02 16:34:20] - INFO - testIntoFeed176
+[2019/07/02 16:34:30] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:34:30] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:34:40] - INFO - 点击元素----进入信息流
+[2019/07/02 16:34:50] - INFO - 点击元素----返回首页
+[2019/07/02 16:34:50] - INFO - testIntoFeed177
+[2019/07/02 16:35:00] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:35:00] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:35:11] - INFO - 点击元素----进入信息流
+[2019/07/02 16:35:21] - INFO - 点击元素----返回首页
+[2019/07/02 16:35:21] - INFO - testIntoFeed178
+[2019/07/02 16:35:31] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:35:31] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:35:41] - INFO - 点击元素----进入信息流
+[2019/07/02 16:35:52] - INFO - 点击元素----返回首页
+[2019/07/02 16:35:52] - INFO - testIntoFeed179
+[2019/07/02 16:36:02] - INFO - 点击元素----取消弹窗
+[2019/07/02 16:36:12] - INFO - 点击元素----进入信息流
+[2019/07/02 16:36:22] - INFO - 点击元素----返回首页
+[2019/07/02 16:36:22] - INFO - testIntoFeed180
+[2019/07/02 16:36:33] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:36:33] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:36:43] - INFO - 点击元素----进入信息流
+[2019/07/02 16:36:53] - INFO - 点击元素----返回首页
+[2019/07/02 16:36:53] - INFO - testIntoFeed181
+[2019/07/02 16:37:03] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:37:03] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:37:13] - INFO - 点击元素----进入信息流
+[2019/07/02 16:37:24] - INFO - 点击元素----返回首页
+[2019/07/02 16:37:24] - INFO - testIntoFeed182
+[2019/07/02 16:37:34] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:37:34] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:37:44] - INFO - 点击元素----进入信息流
+[2019/07/02 16:37:56] - INFO - 点击元素----返回首页
+[2019/07/02 16:37:56] - INFO - testIntoFeed183
+[2019/07/02 16:38:06] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:38:06] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:38:16] - INFO - 点击元素----进入信息流
+[2019/07/02 16:38:26] - INFO - 点击元素----返回首页
+[2019/07/02 16:38:26] - INFO - testIntoFeed184
+[2019/07/02 16:38:37] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:38:37] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:38:47] - INFO - 点击元素----进入信息流
+[2019/07/02 16:38:57] - INFO - 点击元素----返回首页
+[2019/07/02 16:38:57] - INFO - testIntoFeed185
+[2019/07/02 16:39:07] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:39:07] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:39:18] - INFO - 点击元素----进入信息流
+[2019/07/02 16:39:28] - INFO - 点击元素----返回首页
+[2019/07/02 16:39:28] - INFO - testIntoFeed186
+[2019/07/02 16:39:38] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:39:38] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:39:48] - INFO - 点击元素----进入信息流
+[2019/07/02 16:39:58] - INFO - 点击元素----返回首页
+[2019/07/02 16:39:58] - INFO - testIntoFeed187
+[2019/07/02 16:40:09] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:40:09] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:40:19] - INFO - 点击元素----进入信息流
+[2019/07/02 16:40:29] - INFO - 点击元素----返回首页
+[2019/07/02 16:40:29] - INFO - testIntoFeed188
+[2019/07/02 16:40:39] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:40:39] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:40:49] - INFO - 点击元素----进入信息流
+[2019/07/02 16:41:00] - INFO - 点击元素----返回首页
+[2019/07/02 16:41:00] - INFO - testIntoFeed189
+[2019/07/02 16:41:10] - INFO - 点击元素----取消弹窗
+[2019/07/02 16:41:20] - INFO - 点击元素----进入信息流
+[2019/07/02 16:41:30] - INFO - 点击元素----返回首页
+[2019/07/02 16:41:30] - INFO - testIntoFeed190
+[2019/07/02 16:41:40] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:41:40] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:41:51] - INFO - 点击元素----进入信息流
+[2019/07/02 16:42:02] - INFO - 点击元素----返回首页
+[2019/07/02 16:42:02] - INFO - testIntoFeed191
+[2019/07/02 16:42:13] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:42:13] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:42:23] - INFO - 点击元素----进入信息流
+[2019/07/02 16:42:33] - INFO - 点击元素----返回首页
+[2019/07/02 16:42:33] - INFO - testIntoFeed192
+[2019/07/02 16:42:43] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:42:43] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:42:53] - INFO - 点击元素----进入信息流
+[2019/07/02 16:43:04] - INFO - 点击元素----返回首页
+[2019/07/02 16:43:04] - INFO - testIntoFeed193
+[2019/07/02 16:43:14] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:43:14] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:43:24] - INFO - 点击元素----进入信息流
+[2019/07/02 16:43:34] - INFO - 点击元素----返回首页
+[2019/07/02 16:43:34] - INFO - testIntoFeed194
+[2019/07/02 16:43:44] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:43:44] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:43:55] - INFO - 点击元素----进入信息流
+[2019/07/02 16:44:05] - INFO - 点击元素----返回首页
+[2019/07/02 16:44:05] - INFO - testIntoFeed195
+[2019/07/02 16:44:15] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:44:15] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:44:25] - INFO - 点击元素----进入信息流
+[2019/07/02 16:44:36] - INFO - 点击元素----返回首页
+[2019/07/02 16:44:36] - INFO - testIntoFeed196
+[2019/07/02 16:44:46] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:44:46] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:44:56] - INFO - 点击元素----进入信息流
+[2019/07/02 16:45:08] - INFO - 点击元素----返回首页
+[2019/07/02 16:45:08] - INFO - testIntoFeed197
+[2019/07/02 16:45:18] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:45:18] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:45:28] - INFO - 点击元素----进入信息流
+[2019/07/02 16:45:38] - INFO - 点击元素----返回首页
+[2019/07/02 16:45:38] - INFO - testIntoFeed198
+[2019/07/02 16:45:49] - ERROR - 取消弹窗Message: An element could not be located on the page using the given search parameters.
+
+[2019/07/02 16:45:49] - ERROR - 点击元素失败，没有该元素----取消弹窗
+[2019/07/02 16:45:59] - INFO - 点击元素----进入信息流
+[2019/07/02 16:46:09] - INFO - 点击元素----返回首页
+[2019/07/02 16:46:09] - INFO - testIntoFeed199
