@@ -11,9 +11,9 @@ import time
 def allcase():
     #写路径即可
     #case_dir="/testcase"
-    case_path=os.path.join(os.getcwd(), "testcase")
-    testcase=unittest.TestSuite()
-    discover=unittest.defaultTestLoader.discover(case_path,
+    case_path = os.path.join(os.getcwd(), "testcase")
+    testcase = unittest.TestSuite()
+    discover = unittest.defaultTestLoader.discover(case_path,
                                                  pattern='test*.py',
                                                  top_level_dir=None)
     #discover方法筛选出来的用例，循环添加到测试套件中
@@ -25,10 +25,10 @@ def allcase():
             testcase.addTest(test_case)
 
     return testcase
+
 if __name__=="__main__":
     runner = unittest.TextTestRunner()
     runner.run(allcase())
-
     report_path = "report/"+time.strftime("%Y%m%d", time.localtime())+'.html'
     fp = open(report_path, "w", encoding='utf-8')
     runner = HTMLTestRunner.HTMLTestRunner(stream=fp,

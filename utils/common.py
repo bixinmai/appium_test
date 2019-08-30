@@ -3,8 +3,10 @@
 from utils.myconf import myconf
 import os, time
 from appium import webdriver
-
+from utils.logger import MyLogger
+import logging
 PATH = os.path.abspath(os.path.dirname(os.path.dirname(__file__)))
+log = MyLogger(logging.DEBUG, logging.DEBUG)
 
 def read_cofig(file, config):
     fileName = PATH+'\\config\\'+file+'.ini'
@@ -19,6 +21,7 @@ def read_cofig(file, config):
     return kvs
 
 def getDriver(desired_caps):
+    log.info('启动端口地址------http://127.0.0.1:'+desired_caps['port']+'/wd/hub')
     driver = webdriver.Remote('http://127.0.0.1:'+desired_caps['port']+'/wd/hub', desired_caps)
     return driver
 

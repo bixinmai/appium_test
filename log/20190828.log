@@ -1,0 +1,8 @@
+[2019/08/28 16:24:04] - INFO - 启动端口地址------http://127.0.0.1:4723/wd/hub
+[2019/08/28 16:25:03] - INFO - 启动端口地址------http://127.0.0.1:4723/wd/hub
+[2019/08/28 16:25:23] - INFO - 测试用例----反复删除关注的人
+[2019/08/28 16:25:33] - ERROR - 删除关注的人Message: An element could not be located on the page using the given search parameters.
+
+[2019/08/28 16:25:44] - ERROR - 删除关注的人Message: An element could not be located on the page using the given search parameters.
+
+[2019/08/28 20:59:51] - INFO - 启动端口地址------http://127.0.0.1:4723/wd/hub
